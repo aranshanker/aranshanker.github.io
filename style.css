@@ -64,3 +64,33 @@ section {
     padding: 24px;
     margin-bottom: 20px;
 }
+
+.project-links {
+    display: flex;
+    gap: 12px;
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 16px;
+    background-color: #0066cc;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: #004c99;
+    text-decoration: none;
+}
+
+.secondary-button {
+    background-color: white;
+    color: #0066cc;
+    border: 1px solid #0066cc;
+}
+
+.secondary-button:hover {
+    background-color: #f2f7fc;
+}
