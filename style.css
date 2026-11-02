@@ -43,3 +43,24 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+nav {
+    display: flex;
+    gap: 24px;
+    margin-bottom: 60px;
+}
+
+header {
+    margin-bottom: 60px;
+}
+
+section {
+    margin-bottom: 60px;
+}
+
+.project-card {
+    border: 1px solid #dddddd;
+    border-radius: 10px;
+    padding: 24px;
+    margin-bottom: 20px;
+}
