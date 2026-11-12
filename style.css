@@ -94,3 +94,11 @@ section {
 .secondary-button:hover {
     background-color: #f2f7fc;
 }
+
+.project-image {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    border-radius: 8px;
+    margin: 20px 0;
+}
